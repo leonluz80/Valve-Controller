@@ -1,5 +1,5 @@
-# 3DSP-Valve-Controller
-This repository contains the code for the Valve Controller by 3DSP. It is using the Anybus CompactCom Driver API ([abcc-api](https://github.com/hms-networks/abcc-driver-api)) ported for the [Anybus CompactCom Adapter Board - Module to STM32 Nucleo™](https://www.hms-networks.com/p/024620-b-anybus-compactcom-adapter-board-module-to-stm32-nucleo) evaluation platform.
+# Valve-Controller
+This repository contains the code for a Valve Controller. It is using the Anybus CompactCom Driver API ([abcc-api](https://github.com/hms-networks/abcc-driver-api)) ported for the [Anybus CompactCom Adapter Board - Module to STM32 Nucleo™](https://www.hms-networks.com/p/024620-b-anybus-compactcom-adapter-board-module-to-stm32-nucleo) evaluation platform.
 
 ## Prerequisites
 ### Integrated Development Environment (IDE)
